@@ -2,11 +2,17 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
- [![Visit My Portfolio](https://img.shields.io/badge/Visit%20My-Portfolio-blue)](https://harelmarin.github.io/Portfolio/#projects))
 </div>
 
 
+<div align="center">
+<a href="https://harelmarin.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=plastic&logo=github" alt="Portfolio">
+</a>
+</div>
+
 --- 
+
 
 ### 🔥 My Stats : 
 
@@ -23,5 +29,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+
 
 
