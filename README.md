@@ -2,6 +2,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ [![Visit My Portfolio](https://img.shields.io/badge/Visit%20My-Portfolio-blue)](https://harelmarin.github.io/Portfolio/#projects))
 </div>
 
 
