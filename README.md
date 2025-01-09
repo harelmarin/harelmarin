@@ -1,15 +1,16 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 </div>
 
 
 <div align="center">
-<a href="https://harelmarin.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=plastic&logo=github" alt="Portfolio">
-</a>
+  <a href="https://harelmarin.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=plastic&logo=github" alt="Portfolio" style="width: 300px; height: 80px;">
+  </a>
 </div>
+
 
 --- 
 
