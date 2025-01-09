@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://harelmarin.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=plastic&logo=github" alt="Portfolio" style="width: 100px; height: 40px;">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=plastic&logo=github" alt="Portfolio" style="width: 150px; height: 30px;">
   </a>
 </div>
 
