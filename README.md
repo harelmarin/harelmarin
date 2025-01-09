@@ -14,8 +14,6 @@
 --- 
 
 
-### 🔥 My Stats : 
-
 <div align="center">
   <h2>🔥 My GitHub Streak</h2>
   [![GitHub Streak](https://streak-stats.demolab.com?user=harelmarin&theme=radical&hide_border=true)](https://git.io/streak-stats)
