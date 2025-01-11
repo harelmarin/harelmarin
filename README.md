@@ -15,7 +15,7 @@
   
   <!-- Ajoute une image ici directement -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=harelmarin" alt="GitHub Streak Stats">
+   <img src="https://streak-stats.demolab.com/?user=harelmarin&theme=tokyonight" alt="GitHub Streak Stats">
   </a>
 </div>
 
