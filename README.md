@@ -17,7 +17,8 @@
 
 <div align="center">
   <h2>🔥 My GitHub Streak</h2>
- ![Simple GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harelmarin)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=harelmarin)](https://git.io/streak-stats)
+
 
 
 
