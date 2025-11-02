@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="www.marinharel.fr" target="_blank">
+  <a href="https://www.marinharel.fr/" target="_blank">
  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=github&logoColor=white&color=0b0c10" alt="Portfolio" style="width: 280px; height: 40px; font-size: 20px">
 
   </a>
